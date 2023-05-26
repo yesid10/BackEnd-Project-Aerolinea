@@ -2,43 +2,53 @@
     "ciudades": [
         {
             "id": 1,
-             "name": "Bogota"
+             "name": "Bogota",
+             "aeropuerto": "BOG"
         },
         {
             "id": 2,
-            "name": "Medellín" 
+            "name": "Medellín",
+            "aeropuerto": "MDE"
         },
         {
             "id": 3,
-            "name": "Cali" 
+            "name": "Cali",
+            "aeropuerto": "CLO"
         },
         {
             "id": 4,
-            "name": "Manizales" 
+            "name": "Manizales",
+            "aeropuerto": "MZL"
         },
         {
             "id": 5,
-            "name": "Pasto" 
+            "name": "Pasto",
+            "aeropuerto": "PSO"
         },
         {
             "id": 6,
-            "name": "Bucaramanga" 
+            "name": "Bucaramanga",
+            "aeropuerto": "BGA"
         },
         {
             "id": 7,
-            "name": "Pereira" 
+            "name": "Pereira",
+            "aeropuerto": "PEI"
         },
         {
             "id": 8,
-            "name": "Popayan" 
+            "name": "Popayan",
+            "aeropuerto": "PPN"
         },
         {
             "id": 9,
-            "name": "Barranquilla" 
+            "name": "Barranquilla",
+            "aeropuerto": "BAQ"
         },
         {
             "id": 10,
-            "name": "Cartagena" 
+            "name": "Cartagena",
+            "aeropuerto": "CTG"
         }
     ]
 }
