@@ -50,5 +50,249 @@
             "name": "Cartagena",
             "aeropuerto": "CTG"
         }
-    ]
+    ],
+    
+    "sillas":[
+        {
+          "id": "A1",
+          "disponible": false
+        },
+        {
+          "id": "A2",
+          "disponible": true
+        },
+        {
+          "id": "A3",
+          "disponible": true
+        },
+        {
+          "id": "A4",
+          "disponible": false
+        },
+        {
+          "id": "A5",
+          "disponible": true
+        },
+        {
+          "id": "A6",
+          "disponible": false
+        },
+        {
+          "id": "A7",
+          "disponible": true
+        },
+        {
+          "id": "A8",
+          "disponible": true
+        },
+        {
+          "id": "A9",
+          "disponible": false
+        },
+        {
+          "id": "A10",
+          "disponible": false
+        },
+        {
+          "id": "B1",
+          "disponible": false
+        },
+        {
+          "id": "B2",
+          "disponible": true
+        },
+        {
+          "id": "B3",
+          "disponible": false
+        },
+        {
+          "id": "B4",
+          "disponible": true
+        },
+        {
+          "id": "B5",
+          "disponible": false
+        },
+        {
+          "id": "B6",
+          "disponible": true
+        },
+        {
+          "id": "B7",
+          "disponible": false
+        },
+        {
+          "id": "B8",
+          "disponible": false
+        },
+        {
+          "id": "B9",
+          "disponible": true
+        },
+        {
+          "id": "B10",
+          "disponible": true
+        },
+        {
+          "id": "C1",
+          "disponible": true
+        },
+        {
+          "id": "C2",
+          "disponible": true
+        },
+        {
+          "id": "C3",
+          "disponible": false
+        },
+        {
+          "id": "C4",
+          "disponible": false
+        },
+        {
+          "id": "C5",
+          "disponible": false
+        },
+        {
+          "id": "C6",
+          "disponible": true
+        },
+        {
+          "id": "C7",
+          "disponible": true
+        },
+        {
+          "id": "C8",
+          "disponible": false
+        },
+        {
+          "id": "C9",
+          "disponible": true
+        },
+        {
+          "id": "C10",
+          "disponible": true
+        },
+        {
+          "id": "D1",
+          "disponible": true
+        },
+        {
+          "id": "D2",
+          "disponible": true
+        },
+        {
+          "id": "D3",
+          "disponible": false
+        },
+        {
+          "id": "D4",
+          "disponible": false
+        },
+        {
+          "id": "D5",
+          "disponible": true
+        },
+        {
+          "id": "D6",
+          "disponible": false
+        },
+        {
+          "id": "D7",
+          "disponible": true
+        },
+        {
+          "id": "D8",
+          "disponible": false
+        },
+        {
+          "id": "D9",
+          "disponible": true
+        },
+        {
+          "id": "D10",
+          "disponible": true
+        },
+        {
+          "id": "E1",
+          "disponible": false
+        },
+        {
+          "id": "E2",
+          "disponible": true
+        },
+        {
+          "id": "E3",
+          "disponible": false
+        },
+        {
+          "id": "E4",
+          "disponible": true
+        },
+        {
+          "id": "E5",
+          "disponible": false
+        },
+        {
+          "id": "E6",
+          "disponible": true
+        },
+        {
+          "id": "E7",
+          "disponible": false
+        },
+        {
+          "id": "E8",
+          "disponible": true
+        },
+        {
+          "id": "E9",
+          "disponible": true
+        },
+        {
+          "id": "E10",
+          "disponible": false
+        },
+        {
+          "id": "F1",
+          "disponible": true
+        },
+        {
+          "id": "F2",
+          "disponible": false
+        },
+        {
+          "id": "F3",
+          "disponible": true
+        },
+        {
+          "id": "F4",
+          "disponible": true
+        },
+        {
+          "id": "F5",
+          "disponible": false
+        },
+        {
+          "id": "F6",
+          "disponible": true
+        },
+        {
+          "id": "F7",
+          "disponible": true
+        },
+        {
+          "id": "F8",
+          "disponible": false
+        },
+        {
+          "id": "F9",
+          "disponible": true
+        },
+        {
+          "id": "F10",
+          "disponible": false
+        }
+      ]
+      
 }
